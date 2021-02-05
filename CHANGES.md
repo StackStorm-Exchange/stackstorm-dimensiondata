@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.0
+
+* Drop Python 2.7 support
+
 ## v0.1.3
 
 * Pinned libcloud version to <3.0.0 to maintain Python 2 compatibility
